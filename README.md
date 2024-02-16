@@ -1,2 +1,2 @@
 # code
-In this repository i will give my coding journey
+In this repository i will share my coding journey
